@@ -1,0 +1,30 @@
+{
+  "name": "BrewSensorControlPanel_Alpha",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "aws-sdk": "~2.3.7",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "http-dispatcher": "~0.2.2",
+    "path": "~0.12.7",
+    "url": "~0.11.0",
+    "websocket": "~1.0.22",
+    "https": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinocorpllc/BrewSensorControlPanel_Alpha.git"
+  },
+  "author": "Holland Herbert",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dinocorpllc/BrewSensorControlPanel_Alpha/issues"
+  }
+}
